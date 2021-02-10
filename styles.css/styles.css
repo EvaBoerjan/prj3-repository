@@ -1,8 +1,8 @@
 @charset "utf-8";
 .my-class {
 
-	color: crimson;
-	background-color: #F8A3A3;
+	color:#67A7E3;
+	background-color: #7BCED6;
 	text-align: center;
 	margin-right: 100px;
 	margin-left: 100px;
@@ -19,7 +19,11 @@
 	margin-left: 195px;
 	
 }
-.my-id {
-	align-content: center;
-	color: #2E00B8;	
+#my-id {
+	color: blue;
+	background-color: #B4B4F1;
+	border: 5pt dashed #5D6196;
+	margin-left: 250px;
+	margin-right: 250px;
+	text-align: center;
 }
